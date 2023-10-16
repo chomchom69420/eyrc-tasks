@@ -1,0 +1,6 @@
+
+State Machine - |t1c_pulse_gen_detect|state_
+Name state_.ST_WARMUP state_.ST_READ state_.ST_TRIG 
+state_.ST_WARMUP 0 0 0 
+state_.ST_TRIG 1 0 1 
+state_.ST_READ 1 1 0 

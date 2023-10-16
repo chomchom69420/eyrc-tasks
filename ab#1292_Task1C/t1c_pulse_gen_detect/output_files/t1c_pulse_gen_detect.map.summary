@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Oct 16 10:42:15 2023
+Quartus Prime Version : 20.1.0 Build 711 06/05/2020 SJ Lite Edition
+Revision Name : t1c_pulse_gen_detect
+Top-level Entity Name : t1c_pulse_gen_detect
+Family : Cyclone IV E
+Total logic elements : 109
+    Total combinational functions : 109
+    Dedicated logic registers : 59
+Total registers : 59
+Total pins : 29
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
